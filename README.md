@@ -1,4 +1,4 @@
-# Miniguia de Estudos: Potencialize seus etudos para concurso público
+# Miniguia de Estudos: Potencialize seus estudos para concurso público
 
 ## 🎯 Contexto e Objetivos
 Este projeto foi desenvolvido como parte de um desafio da DIO para explorar o NotebookLM. O objetivo é aprofundar meus conhecimentos em métodos para potencializar meus estudos em concursos públicos.
